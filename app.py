@@ -57,7 +57,7 @@ st.markdown(
         <text class="heart-label" x="250" y="304">Collen</text>
       </svg>
     </div>
-    <div class="note">💖 Januario cuti cuti X Collen cuti cuti 💖<br/>Uma dupla que merece um coração inteiro!</div>
+    <div class="note">💖 Januario cuti cuti X Collen cuti cuti 💖<br/>voce e muito legal e fofinha collen bjs </div>
     <div class="footer">Feito com amor e carinho by januario ❤️</div>
     """,
     unsafe_allow_html=True,
