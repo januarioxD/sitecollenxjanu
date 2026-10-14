@@ -41,8 +41,8 @@ st.markdown(
       @media (max-width: 600px) { .block-container { padding-top: 2.5rem; } .heart-label { font-size: 21px; } }
     </style>
     <div class="eyebrow">Uma amizade especial</div>
-    <h1 class="headline">Eu sou o melhor amigo do Januario!</h1>
-    <p class="subtitle">Amizade boa é daquelas que deixam o dia mais leve e o coração mais feliz.</p>
+    <h1 class="headline">Collen e januario amiguinhos fofos</h1>
+    <p class="subtitle">eu te gosto muitao collen amiguinha fofa <3 </p>
     <div class="heart-wrap">
       <svg class="heart-svg" viewBox="0 0 500 430" role="img" aria-label="Coração com os nomes Januario e Collen">
         <defs>
@@ -57,8 +57,8 @@ st.markdown(
         <text class="heart-label" x="250" y="304">Collen</text>
       </svg>
     </div>
-    <div class="note">💖 Januario X Collen 💖<br/>Uma dupla que merece um coração inteiro!</div>
-    <div class="footer">Feito com carinho ❤️</div>
+    <div class="note">💖 Januario cuti cuti X Collen cuti cuti 💖<br/>Uma dupla que merece um coração inteiro!</div>
+    <div class="footer">Feito com amor e carinho by januario ❤️</div>
     """,
     unsafe_allow_html=True,
 )
